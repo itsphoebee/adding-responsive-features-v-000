@@ -1,9 +1,9 @@
 @media only screen and (max-width: 1108px) {
-  
+
   .wrapper {
     width: 90%;
   }
-  
+
   #social {
     position: absolute;
     top: 82px;
@@ -13,5 +13,12 @@
 
   #social a {
     display: inline-block;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  
+  body {
+    font-size: 85%;
   }
 }
